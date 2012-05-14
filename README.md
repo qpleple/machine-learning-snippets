@@ -1,2 +1,4 @@
-machine-learning-snippets
+Machine Learning Snippets
 =========================
+
+Matlab, Python, Ruby
